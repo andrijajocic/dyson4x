@@ -3,10 +3,10 @@
 [node name="Node2D" type="Node2D"]
 
 [node name="Label" type="Label" parent="."]
-margin_left = -1.0
-margin_top = 0.949982
-margin_right = 844.0
-margin_bottom = 150.95
-text = "nigga"
+margin_left = -1.77377
+margin_top = 0.176193
+margin_right = 843.226
+margin_bottom = 150.176
+text = "test"
 align = 1
 valign = 1
